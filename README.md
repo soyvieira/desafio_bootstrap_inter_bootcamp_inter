@@ -1,1 +1,3 @@
-# desafio_bootstrap_inter_bootcamp_inter
+# Construindo páginas para internet com Bootstrap - Bootcamp Inter da DIO
+
+ Referente ao conteúdo da sessão sobre bootstrap integrado com HTML e CSS.
